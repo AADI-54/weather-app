@@ -33,10 +33,6 @@ This project is licensed under the **MIT License**.
 
 ---
 
-### 🔗 Connect with Me
-[GitHub](https://github.com/your-username) | [Twitter](https://twitter.com/your-handle) | [LinkedIn](https://linkedin.com/in/your-profile)
-
----
 
 🚀 **Stay tuned for more updates!**
 
